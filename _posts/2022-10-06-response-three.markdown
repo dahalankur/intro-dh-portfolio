@@ -10,7 +10,7 @@ is a "web-based text reading and analysis environment designed to facilitate rea
 statistics gathering, and even pre-processing to feed into powerful NLP language models. In this blog post, I will be reflecting on using this powerful tool on a corpus of my choice -- William Shakespeare's __The Tragedy of Hamlet__. I wanted to explore this play since it was one of the first works of Shakespeare I was introduced to. This is the screen I was greeted
 with initially after I entered the URL to Hamlet:
 
-<img src="https://dahalankur.github.io/intro-dh-portfolio/assets/hamlet.png" alt="hamlet voyant tools welcome screen" width="650"/>
+<img src="https://dahalankur.github.io/intro-dh-portfolio/assets/hamlet.png" alt="hamlet voyant tools welcome screen" width="850"/>
 
 The first thing I noticed is the word cloud, which showed that the words "hamlet", 
 "lord", and "king" are the most prominent words in the corpus, which was expected. I am 
